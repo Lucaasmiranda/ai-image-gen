@@ -44,7 +44,7 @@ const ImageContainer = ({
           transition={{ duration: 1 }}
           viewport={{ once: true }}
           className="image"
-          src={require("../assets/astronaut.jpg")}
+          src={require("../assets/smart-prints.jpg")}
           alt="Astronaut riding a horse"
           loading="eager"
         />
