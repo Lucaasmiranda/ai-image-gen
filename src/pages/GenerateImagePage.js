@@ -134,7 +134,7 @@ function GenerateImagePage({ app }) {
         transition={{ duration: 1 }}
         viewport={{ once: true }}
       >
-        <InputBox label={"Description"} setAttribute={setUserPrompt} />
+        <InputBox label={""} setAttribute={setUserPrompt} />
 
         {/*<InputBox label={"Amount"} setAttribute={setNumber} />*/}
 

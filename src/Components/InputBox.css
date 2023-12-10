@@ -19,9 +19,10 @@
   font-size: 14px;
   background-color: #444654;
   font-family: Founders Grotesk, Arial Black, sans-serif;
-  color: white;
+  color: rgb(255, 255, 255);
   resize: none;
   padding: 10px;
+  text-align: center;
 }
 
 .input::-webkit-scrollbar {

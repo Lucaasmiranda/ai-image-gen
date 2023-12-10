@@ -7,13 +7,13 @@ const SizingButtons = ({ setSize, user }) => {
       {user && (
         <div className="sizingButtonsContainer">
           <button className="sizingButton" onClick={() => setSize("256x256")}>
-            Small
+            Petit
           </button>
           <button className="sizingButton" onClick={() => setSize("512x512")}>
-            Medium
+            Mitjà
           </button>
           <button className="sizingButton" onClick={() => setSize("1024x1024")}>
-            Large
+            Gran
           </button>
         </div>
       )}

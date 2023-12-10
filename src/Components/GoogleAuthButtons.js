@@ -22,7 +22,7 @@ function GoogleAuthButtons({ user, handleLogin, handleLogout }) {
       {!user && (
         <button className="google-button" onClick={handleLogin}>
           <GoogleSvg />
-          Login with Google to start
+          Inicia sessió al teu compte de Google
         </button>
       )}
     </div>

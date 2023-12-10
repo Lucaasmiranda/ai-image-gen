@@ -11,7 +11,7 @@ const GenerateButton = ({ isLoading, handleImageGeneration, user }) => {
           className="generateButton"
           onClick={() => handleImageGeneration()}
         >
-          Generate
+          Genera
         </button>
       )}
     </>

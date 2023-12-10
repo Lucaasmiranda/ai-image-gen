@@ -11,7 +11,7 @@ function GenerateImageHeading() {
       transition={{ duration: 1 }}
       className="generateImageHeading"
     >
-      Generate An Image
+      Genera una Imatge
     </motion.h2>
   );
 }
